@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+  }
+
+section {
+    text-align: center;
+  }
+  
+  a {
+    color: aquamarine;
+    font-size: 16px;
+  }
+  
+  h1 {
+    font-size: 50px;
+    font-weight: normal;
+    font-family: "Verdana";
+    color: white;
+    
+  }
+  
+  h2 {
+    font-size: 42px;
+    font-weight: 300;
+    font-family: "Verdana";
+    color: white;
+  }
+  
+  p {
+    font-size: 21px;
+    color: gray;
+    font-family: "Verdana";
+  }
+  
+  footer {
+    text-align: right;
+    color: gray;
+	font-family: Verdana;
+	font-size: 21px;
+  } 
